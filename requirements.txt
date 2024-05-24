@@ -1,0 +1,12 @@
+"""
+1) Allows to keep track of all modules and packages
+2) Simplifies installation of all the packages needed
+3) Makes it easy to share your project with others since it installs the same version
+"""
+
+asgiref==3.8.1
+Django==5.0.6
+django-allauth==0.63.1
+six==1.16.0
+sqlparse==0.5.0
+tzdata==2024.1
